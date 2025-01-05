@@ -46,6 +46,7 @@ This is a simple recipe viewer app built with **Next.js**. The app allows users 
 - **Improve the UI/UX design and layout**: Enhance the visual appeal and user experience of the app by refining the design and making it more intuitive.
 - **Make the app fully responsive on all screen sizes**: Ensure the app looks and works well on various devices, including mobile, tablet, and desktop.
 - **Add more features like user authentication and persistent favorites across devices**: Implement user authentication to save personalized favorites and allow users to access their data from any device.
+- https://recipe-viewer-kappa.vercel.app/
 
   ## Acknowledgments
 
