@@ -52,3 +52,4 @@ This is a simple recipe viewer app built with **Next.js**. The app allows users 
 - **TheMealDB API** for providing the recipe data.
 - **MongoDB Atlas** for hosting the database.
 - **Next.js** and **React** for providing a solid foundation for building modern web apps.
+- This is the actual working project link  https://recipe-viewer-kappa.vercel.app/
