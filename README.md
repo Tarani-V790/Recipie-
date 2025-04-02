@@ -54,3 +54,6 @@ This is a simple recipe viewer app built with **Next.js**. The app allows users 
 - **MongoDB Atlas** for hosting the database.
 - **Next.js** and **React** for providing a solid foundation for building modern web apps.
 - This is the actual working project link  https://recipe-viewer-kappa.vercel.app/
+
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/1abf79ba-2116-4797-9b64-45e5868b54ed" />
+
